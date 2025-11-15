@@ -1,0 +1,78 @@
+[
+  {
+    "id": "ed3fbf57-cc3f-4e2f-9c6c-a0c24b3981a1",
+    "name": "Nancy Pelosi",
+    "party": "DEM",
+    "state": "CA",
+    "recentTrades": [
+      {
+        "id": "11111111-0000-0000-0000-000000000001",
+        "ticker": "NVDA",
+        "date": "2024-11-01",
+        "transactionType": "BUY",
+        "amount": 975000
+      }
+    ]
+  },
+  {
+    "id": "aa91f211-d2d2-4e69-8d62-2f1ffbb6a1e9",
+    "name": "Dan Crenshaw",
+    "party": "REP",
+    "state": "TX",
+    "recentTrades": [
+      {
+        "id": "11111111-0000-0000-0000-000000000002",
+        "ticker": "TSLA",
+        "date": "2024-10-15",
+        "transactionType": "SELL",
+        "amount": 45000
+      }
+    ]
+  },
+  {
+    "id": "c27c1a56-b7e5-4ae9-a9be-4df64bb3ad16",
+    "name": "Ro Khanna",
+    "party": "DEM",
+    "state": "CA",
+    "recentTrades": [
+      {
+        "id": "11111111-0000-0000-0000-000000000003",
+        "ticker": "AAPL",
+        "date": "2024-09-12",
+        "transactionType": "BUY",
+        "amount": 120000
+      }
+    ]
+  },
+  {
+    "id": "65aecadc-ff63-4df2-b1b8-7a93f69a2fa6",
+    "name": "Michael McCaul",
+    "party": "REP",
+    "state": "TX",
+    "recentTrades": [
+      {
+        "id": "11111111-0000-0000-0000-000000000004",
+        "ticker": "MSFT",
+        "date": "2024-10-28",
+        "transactionType": "BUY",
+        "amount": 250000
+      }
+    ]
+  },
+  {
+    "id": "8b8f45b1-9fc4-4f77-94f3-130f822e7516",
+    "name": "Josh Gottheimer",
+    "party": "DEM",
+    "state": "NJ",
+    "recentTrades": [
+      {
+        "id": "11111111-0000-0000-0000-000000000005",
+        "ticker": "AMZN",
+        "date": "2024-11-05",
+        "transactionType": "BUY",
+        "amount": 380000
+      }
+    ]
+  }
+]
+
