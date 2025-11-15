@@ -1,0 +1,63 @@
+[
+  {
+    "id": "20000000-0000-0000-0000-000000000001",
+    "fundName": "Bridgewater Associates",
+    "manager": "Ray Dalio",
+    "portfolio": [
+      {
+        "id": "30000000-0000-0000-0000-000000000001",
+        "ticker": "AAPL",
+        "weight": 5.8
+      }
+    ]
+  },
+  {
+    "id": "20000000-0000-0000-0000-000000000002",
+    "fundName": "Citadel Advisors",
+    "manager": "Ken Griffin",
+    "portfolio": [
+      {
+        "id": "30000000-0000-0000-0000-000000000002",
+        "ticker": "NVDA",
+        "weight": 7.4
+      }
+    ]
+  },
+  {
+    "id": "20000000-0000-0000-0000-000000000003",
+    "fundName": "Renaissance Technologies",
+    "manager": "Peter Brown",
+    "portfolio": [
+      {
+        "id": "30000000-0000-0000-0000-000000000003",
+        "ticker": "TSLA",
+        "weight": 3.2
+      }
+    ]
+  },
+  {
+    "id": "20000000-0000-0000-0000-000000000004",
+    "fundName": "Two Sigma",
+    "manager": "David Siegel",
+    "portfolio": [
+      {
+        "id": "30000000-0000-0000-0000-000000000004",
+        "ticker": "MSFT",
+        "weight": 6.0
+      }
+    ]
+  },
+  {
+    "id": "20000000-0000-0000-0000-000000000005",
+    "fundName": "Third Point",
+    "manager": "Dan Loeb",
+    "portfolio": [
+      {
+        "id": "30000000-0000-0000-0000-000000000005",
+        "ticker": "AMZN",
+        "weight": 4.1
+      }
+    ]
+  }
+]
+
